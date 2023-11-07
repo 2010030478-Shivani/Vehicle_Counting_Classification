@@ -9,7 +9,9 @@ will try to address this issue.
 Objectives
 
 • This project is to count and classify the vehicles but they can be used to do complex tasks such as number plate recognition, lane recognition etc.
-• This has applications in a range of fields such as, public security, accident detection, vehicle theft detection, parking areas and many more
+
+• This has applications in a range of fields such as, public security, accident detection, vehicle theft detection, parking areas and many more.
+
 • The vehicles are categorized as small vehicles, which contains small cars and
 heavy vehicles.
 
